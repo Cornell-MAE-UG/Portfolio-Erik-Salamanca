@@ -29,9 +29,9 @@ Aspiring doctor with a strong foundation in math, physics, biology, and chemistr
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, SolidWorks, Autodesk Inventor, PyMOL 
+- **Programming:** Python, MATLAB, Java  
+- **Tools:** 3D Printing, Laser Cutting, Basic Machining
 
 ---
 
