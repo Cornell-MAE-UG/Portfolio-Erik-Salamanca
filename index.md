@@ -1,16 +1,23 @@
 ---
 layout: default
-title: <Your Name>
+title: <Erik Salamanca>
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/IMG_0998.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+My name is {{ site.name }}, and I am a undergraduate mechinacal engineer student at Cornell University that plans on going to
+medical school and becoming a doctor. I entered college with a passion for engineering, but as I progressed and interacted with more
+people in the feild I have learned that engineering as a profession is not for me. I still hold great passion and interest in the
+prinicples of engineering, so I plan to finish my major while also taking the additional classes required to enter medical school. I
+decided I wanted to be a doctor because I want to be able to directly help people. Assiting people in their most important hour of
+need is what I want to dedicate my life to.
+    In this feild I will also be able to pursue my passion for scienific knowledge and work with my hands. One of the biggest things 
+that drew me to engineering was seeing the fruits of my labor. My favorite part of a project would be when I finished it and could
+see the final product working. Now I see myself doing this as a doctor, watching people come in hurt and leaving happier. That would
+bring me fulfillment and make everyday feel meaningfull. 
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
