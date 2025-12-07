@@ -19,7 +19,7 @@ In this project for MAE 3270 Properties of Materials, Kat Volkova and I designed
 
 After making the model of the system I developed a MATLAB livescript to do hand calculations to see if certain materials would meet the requirements set by the problem. I have attached the MATLAB file here; it has the correct dimensions and material we selected in it. 
 
-[Download MATLAB livescript here](../../assets/Material_Selector.mlx)
+[Download MATLAB livescript here](../../assets/Erik_Salamanca_Material_Selector_For_Torque_Wrench.mlx)
 
 Using this script we picked Aluminum 7075 T6 which has the relevant material properties:
 E = 10000000 psi  
