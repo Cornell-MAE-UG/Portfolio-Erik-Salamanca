@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Speaker Dissection for MAE 3260
+title: Speaker Dissection
 description: Analysis Project
 technologies: [Oscilliscope, High Speed Camera]
 image: /assets/images/SP_Speaker.png
